@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccfc015e-7715-4ffb-9919-5bfcb0ac9e2c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UU9b1G7cw9VIvdvmqdJwamTuCN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Gherkin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/TestSuites" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/test/java/TestSuites" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="steps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/features" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TaskTest.shouldCheckTaskAsCompleted">
+    <configuration name="TaskTest.shouldAddTwoTasks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CaseStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TaskTest" />
+      <option name="METHOD_NAME" value="shouldAddTwoTasks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest.shouldCheckTaskAsCompleted" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CaseStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TaskTest" />
+      <option name="METHOD_NAME" value="shouldCheckTaskAsCompleted" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest.shouldDeleteTask" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CaseStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TaskTest" />
+      <option name="METHOD_NAME" value="shouldDeleteTask" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest.shouldEditAndSaveTask" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CaseStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TaskTest" />
+      <option name="METHOD_NAME" value="shouldEditAndSaveTask" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CaseStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TaskTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TaskTest.shouldCheckTaskAsCompleted" />
+        <item itemvalue="TestNG.TaskTest.shouldEditAndSaveTask" />
+        <item itemvalue="TestNG.TaskTest.shouldAddTwoTasks" />
+        <item itemvalue="TestNG.TaskTest.shouldDeleteTask" />
+        <item itemvalue="TestNG.TaskTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccfc015e-7715-4ffb-9919-5bfcb0ac9e2c" name="Default Changelist" comment="" />
+      <created>1575400374080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575400374080</updated>
+      <workItem from="1575400378476" duration="4480000" />
+      <workItem from="1575653693924" duration="6079000" />
+      <workItem from="1575710537163" duration="45375000" />
+      <workItem from="1575846790201" duration="16455000" />
+      <workItem from="1575911810547" duration="14745000" />
+      <workItem from="1575930867649" duration="5685000" />
+      <workItem from="1580122631542" duration="9249000" />
+      <workItem from="1580138113829" duration="2000" />
+      <workItem from="1580157949085" duration="80000" />
+      <workItem from="1580158095044" duration="1567000" />
+      <workItem from="1580159810397" duration="1287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1702" y="-732" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580136364923">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="1702" y="-732" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580136364923" />
+    <state x="762" y="394" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1580122754997" />
+    <state x="564" y="384" width="1079" height="568" key="#xdebugger.evaluate" timestamp="1580138002293">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="564" y="384" width="1079" height="568" key="#xdebugger.evaluate/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580138002293" />
+    <state x="659" y="276" key="#xdebugger.evaluate/-932.-1080.1920.1080/988.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1580130738912" />
+    <state width="702" height="466" key="DebuggerActiveHint" timestamp="1580134072414">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="702" height="466" key="DebuggerActiveHint/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580134072414" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1580138105608">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580138105608" />
+    <state width="1750" height="391" key="GridCell.Tab.0.bottom/-932.-1080.1920.1080/988.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1580130415836" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1580138105607">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580138105607" />
+    <state width="1750" height="391" key="GridCell.Tab.0.center/-932.-1080.1920.1080/988.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1580130415834" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1580138105607">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580138105607" />
+    <state width="1750" height="391" key="GridCell.Tab.0.left/-932.-1080.1920.1080/988.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1580130415833" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1580138105608">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580138105608" />
+    <state width="1750" height="391" key="GridCell.Tab.0.right/-932.-1080.1920.1080/988.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1580130415835" />
+    <state width="1878" height="391" key="GridCell.Tab.1.bottom" timestamp="1580138105603">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="391" key="GridCell.Tab.1.bottom/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580138105603" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/-932.-1080.1920.1080/988.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1580130424039" />
+    <state width="1878" height="391" key="GridCell.Tab.1.center" timestamp="1580138105602">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="391" key="GridCell.Tab.1.center/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580138105602" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center/-932.-1080.1920.1080/988.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1580130424037" />
+    <state width="1878" height="391" key="GridCell.Tab.1.left" timestamp="1580138105601">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="391" key="GridCell.Tab.1.left/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580138105601" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left/-932.-1080.1920.1080/988.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1580130424036" />
+    <state width="1878" height="391" key="GridCell.Tab.1.right" timestamp="1580138105602">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="391" key="GridCell.Tab.1.right/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580138105602" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right/-932.-1080.1920.1080/988.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1580130424038" />
+    <state x="562" y="302" key="Maven.ArtifactSearchDialog" timestamp="1580122842408">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="562" y="302" key="Maven.ArtifactSearchDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1580122842408" />
+    <state width="960" height="528" key="XDebugger.FullValuePopup" timestamp="1580138000014">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="960" height="528" key="XDebugger.FullValuePopup/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580138000014" />
+    <state x="1634" y="-817" width="670" height="559" key="search.everywhere.popup" timestamp="1580138085310">
+      <screen x="988" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="1634" y="-817" width="670" height="559" key="search.everywhere.popup/-932.-1057.1920.1057/988.-1057.1920.1057/0.23.1792.1031@988.-1057.1920.1057" timestamp="1580138085310" />
+    <state x="689" y="291" width="670" height="676" key="search.everywhere.popup/0.0.2048.1280@0.0.2048.1280" timestamp="1580123060411" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/models/datalist/CategoriesDataList.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/TaskPage.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
